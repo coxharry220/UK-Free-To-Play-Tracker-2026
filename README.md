@@ -1,16 +1,14 @@
 # UK Free-to-Play Competitions Tracker 2026
 
-This public repo shares weekly snapshot data from Betquest's live tracker of 23+ free-to-play games from major UK operators (bet365 6 Scores, Paddy Power Eliminator, LiveScore 6, Betfred Goal Builder+, Coral Racing Super Series, etc.).
+This public repository contains a snapshot of data from Betquest's live tracker covering 23+ free-to-play competitions run by major UK bookmakers (bet365 6 Scores, Paddy Power Eliminator, LiveScore 6, Betfred Goal Builder+, Coral Racing Super Series, and more).
 
-### What's Included
+### Data Snapshot Includes
 - Prize pool trends
-- Recent winners & payouts
-- Entry rules & deadlines
+- Recent winners and payouts
+- Entry rules and deadlines
 
-Full interactive tracker with countdown timers, dynamic prizes, and offer comparisons: **[Betquest – UK Free Bets & Casino Offers Tracker](https://betquest.co.uk/)**
+The full interactive version — with live countdown timers, dynamic prize updates, and detailed offer comparisons — is available here: **[Betquest – UK Free Bets & Casino Offers Tracker](https://betquest.co.uk/)**
 
-Sample data snapshot: [free-to-play-competitions-2026.csv](./free-to-play-competitions-2026.csv)
+Sample data export: [free-to-play-competitions-2026.csv](./free-to-play-competitions-2026.csv)
 
-Data is exported as CSV weekly for transparency. Feel free to fork/contribute if you're analysing UK betting retention tools.
-
-Last updated: March 2026
+Repository last updated: March 2026
