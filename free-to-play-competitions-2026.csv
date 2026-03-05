@@ -1,0 +1,24 @@
+id,name,deadline,prize,url,blurb,live,countdown,image
+williamhill,Stat Attack,2025-05-31T20:00:00+01:00,£20,/william-hill-free-stat-attack-competition.php,Answer 5 questions correctly to win £20,false,,william-hill-stat-attack-20-prize.webp
+livescore6,Live Score 6,2025-08-16T15:00:00+01:00,"£250,000",/livescore-free-livescore6-competition.php,"Predict 6 correct scores to win £250,000",false,,livescore-6-250000-prize.webp
+betway-4toscore,4 To Score,2025-08-23T17:30:00+01:00,"£50,000",/betway-free-4-to-score.php,"Predict first 4 scorers to win £50,000",false,,betway-4-to-score-50000-prize.webp
+netbet,Score Predictor,2025-11-09T14:00:00+00:00,"£5,000",/netbet-free-score-predictor.php,"Predict 4 correct scores to win up to £5,000",false,,netbet-score-predictor-5000-prize.webp
+paddypower_showdown,NFL Showdown,2026-02-08T23:29:22+00:00,"£25,000",/paddypower-free-nfl-showdown,"Answer 8 questions correctly to win up to £25,000",false,,paddy-power-showdown-25000-prize.webp
+betway-4towin,4 To Win,2026-02-18T14:45:00+00:00,"£1,000",/betway-free-4-to-win.php,"Predict the winner of each race to win £1,000",false,,betway-4-to-win-1000-prize.webp
+coral-racing,Racing Super Series,2026-02-28T13:55:00+00:00,"£10,000",/coral-free-racing-super-series.php,"Predict 7 horses to place, win up to £10,000",false,,coral-racing-super-series-10000-prize.webp
+bet365_horses,6 Horses,2026-02-28T14:15:00+00:00,"£50,000",/bet365-free-six-horses.php,"Predict 6 winning horses to win up to £50,000",false,,bet365-six-horses-challenge-50000-prize.webp
+paddypower,Eliminator,2026-03-06T13:39:09+00:00,"£10,000",/paddypower-free-eliminator.html,"Select horses you think will win to win up to £10,000",true,0d 17h 36m,paddy-power-eliminator-10000-prize.webp
+betmgm,Bet MGM Golden Goals,2026-03-07T12:15:00+00:00,"£250,000",/betmgm-free-golden-goals-competition.php,"Predict 6 correct scores to win up to £250,000",true,1d 16h 11m,betmgm-golden-goals-250000-prize.webp
+itv7,ITV7,2026-03-07T13:50:00+00:00,"£50,000",https://itv7.itv.com/home,"Predict 7 winners to win up to £50,000",true,1d 17h 46m,ITV7-50000-prize.webp
+super6,Super 6,2026-03-07T15:00:00+00:00,"£250,000",/sky-bet-free-super-6-competition.php,"Predict 6 correct scores to win £250,000",true,1d 18h 56m,sky-sports-super-6-250000-prize.webp
+sport888,888 Sport Up For 8,2026-03-07T15:00:00+00:00,"£10,000",/sport888-free-up-for-8.php,"Predict 8 results to win up to £10,000",true,1d 18h 56m,888-sport-up-for-8-10000-prize.webp
+bet365_scores,6 Scores,2026-03-07T15:00:00+00:00,"£250,000",/bet365-free-six-scores.php,"Predict 6 correct scores to win up to £250,000",true,1d 18h 56m,bet365-six-scores-challenge-250000-prize.webp
+betfred,Beat Fred,2026-03-07T17:45:00+00:00,"£10,000",/betfred-free-beat-fred-competition.html,"Beat Fred to win up to £10,000",true,1d 21h 41m,betfred-beat-fred-10000-prize.webp
+ladbrokes,Ladbrokes 1-2-Free,2026-03-07T20:00:00+00:00,"£10,000",/ladbrokes-free-1-2-FREE.php,"Predict 3 correct scores to win a share of £10,000",true,1d 23h 56m,ladbrokes-1-2-free-10000-prize.webp
+netbet_ufc,MMA Predictor,2026-03-08T03:00:00+00:00,"£1,000",/netbet-free-UFC-predictor.php,"Predict 5 UFC fights to win up to £1,000",true,2d 6h 56m,netbet-ufc-predictor-1000-prize.webp
+coral_football,Football Super Series,2026-03-08T16:30:00+00:00,£100,/coral-free-football-super-series.php,Predict 4 match stats to win £100,true,2d 20h 26m,coral-football-super-series-100-prize.webp
+betfred-goal-builder-plus,Goal Builder+,2026-03-11T20:00:00+00:00,"£20,000",/betfred-free-goal-builder-plus-competition.php,"Predict the first goal correctly to win £10,000",true,5d 23h 56m,betfred-goalbuilderplus-20000-prize.webp
+betano,Premier Predictions,2026-03-14T14:45:00+00:00,£100,/betano-free-premier-predictions-competition.php,Predict 4 correct scores to win £100,true,,betano-premier-predictions-100-prize.webp
+talksport_4play,Footie 4 Play,2026-03-14T14:45:00+00:00,£100,/talksportbet-free-footie-4-play-competition.php,Predict 4 correct scores to win £100,true,,talksport-footie-4-play-100-prize.webp
+betvictor,Predictor,2026-03-14T17:15:00+00:00,"£50,000",/betvictor-free-predictor-competition.php,"Predict 6 correct scores to win up to £50,000",true,,bet-victor-predictor-50000-prize.webp
+parimatch,Scoreline Selector,2026-03-14T17:15:00+00:00,£70,/parimatch-free-scoreline-selector-competition.php,Predict 4 correct scores to win £70,true,,parimatch-scoreline-selector-70-prize.webp
