@@ -9,6 +9,8 @@ This public repo shares weekly snapshot data from Betquest's live tracker of 23+
 
 Full interactive tracker with countdown timers, dynamic prizes, and offer comparisons: **[Betquest – UK Free Bets & Casino Offers Tracker](https://betquest.co.uk/)**
 
+Sample data snapshot: [free-to-play-competitions-2026.csv](./free-to-play-competitions-2026.csv)
+
 Data is exported as CSV weekly for transparency. Feel free to fork/contribute if you're analysing UK betting retention tools.
 
 Last updated: March 2026
